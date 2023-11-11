@@ -1,5 +1,5 @@
 <template>
   <span>
-    <h1>header</h1>
+    <h1>footer</h1>
   </span>
 </template>
