@@ -1,13 +1,10 @@
-<script setup lang="ts">
-    const layout = 'default'
+<script setup>
+    import Leaderboard from '~/components/Leaderboard.vue';
+    
+    const isLoggedIn = false;
 </script>
 
 <template>
-    <section class="section">
-        <div class="container">
-            <NuxtLink to="/login">
-                <button class="">Login</button>
-            </NuxtLink>
-        </div>
-    </section>
+    <Dashboard/>
+    <Leaderboard/>
 </template>
