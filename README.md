@@ -22,20 +22,20 @@ The platform introduces a unique blend of environmental responsibility, health p
 
 ### Goals:
 
-1. **Reducing Carbon Emissions**: Impact Tokens aims to significantly decrease the company's carbon footprint by encouraging employees to adopt eco-friendly commuting habits, such as walking or car-sharing.
+1. **Reducing Carbon Emissions**: GreenBits aims to significantly decrease the company's carbon footprint by encouraging employees to adopt eco-friendly commuting habits, such as walking or car-sharing.
 2. **Improving Employee Health**: Beyond environmental impact, the program focuses on enhancing the health and well-being of employees, promoting physical activity and stress reduction.
-3. **General Environmental Impact**: By fostering a culture of sustainability, Impact Tokens contributes to the broader goal of reducing carbon emissions and creating a positive impact on the environment.
+3. **General Environmental Impact**: By fostering a culture of sustainability, GreenBits contributes to the broader goal of reducing carbon emissions and creating a positive impact on the environment.
 4. **Teambuilding**: The platform facilitates teambuilding through activities like small group walks or car-sharing, fostering collaboration and camaraderie among colleagues.
 
 ### Implementation:
 
-1. **Leaderboards and Integration**: Impact Tokens features dynamic leaderboards, seamlessly integrated into ERP profiles and communication channels, enhancing visibility and engagement.
+1. **Leaderboards and Integration**: GreenBits features dynamic leaderboards, seamlessly integrated into ERP profiles and communication channels, enhancing visibility and engagement.
 2. **Improvement Graphs**: Employees can track their commuting habits over time through interactive improvement graphs, providing insights into their environmental contributions.
 3. **Innovative Rewards**: The platform introduces innovative rewards for participants, such as:
    - Days Off: Rewarding sustainable actions with additional days off, ensuring a positive impact without harming the environment.
    - Sports Coupons: Promoting a healthy lifestyle, employees can redeem sports coupons for fitness activities or wellness services.
    - Contribution to Travel Expenses: Offering financial incentives by contributing to travel expenses, supporting green modes of transportation like public transit, biking, or e-scooters.
-4. **Recognition Initiatives**: Impact Tokens celebrates achievements through initiatives like "Employee of the Month" LinkedIn posts, acknowledging and promoting sustainability champions.
+4. **Recognition Initiatives**: GreenBits celebrates achievements through initiatives like "Employee of the Month" LinkedIn posts, acknowledging and promoting sustainability champions.
    
 GreenBits is a transformative platform that aligns corporate values with individual well-being and environmental stewardship. 
 Join us in creating a workplace where sustainability, health, and teamwork converge for a brighter future.
