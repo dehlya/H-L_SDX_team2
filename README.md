@@ -86,9 +86,9 @@ Here's why we use the blockchain technology:
    - Automated Execution: Smart contracts, self-executing contracts with the terms of the agreement directly written into code, can automate the execution of reward transactions based on predefined conditions. This reduces the need for manual intervention and ensures that transactions are executed as intended.
      
 5. **Security**:
-   R- esilience to Attacks: Blockchain technology employs cryptographic techniques that make it resistant to various types of cyber attacks. This enhances the security of the system, especially when dealing with sensitive information and transactions related to sustainability and employee rewards.
+   - Resilience to Attacks: Blockchain technology employs cryptographic techniques that make it resistant to various types of cyber attacks. This enhances the security of the system, especially when dealing with sensitive information and transactions related to sustainability and employee rewards.
 
-7. **Traceability**:
+6. **Traceability**:
   - Auditable History: The entire transaction history is traceable on the blockchain. This feature is beneficial for auditing purposes, allowing companies to track the flow of tokens, rewards, and sustainability-related transactions over time.
 
 
@@ -111,11 +111,15 @@ The app is made to be included in the company's website. This allows them to sho
 ## Demo
 
 ### Prototype
-The prototyping and workflow can be consulted on : https://www.figma.com/proto/xnfmwgEo40esXbiGRnU5rz/Powerpuffs?type=design&node-id=104-2954&t=GV0BBNr1U1Ixblbn-0&scaling=contain&page-id=0%3A1&starting-point-node-id=104%3A2954
+The prototyping and workflow can be consulted [here](https://www.figma.com/proto/xnfmwgEo40esXbiGRnU5rz/Powerpuffs?type=design&node-id=104-2954&t=GV0BBNr1U1Ixblbn-0&scaling=contain&page-id=0%3A1&starting-point-node-id=104%3A2954).
 
 
 ### Current State
-The current application can be consulted on : https://h-l-sdx-team2.vercel.app/
+The current application can be consulted [here](https://h-l-sdx-team2.vercel.app/).
+This demo version includes the login, in case you want to try it, here is a temporary login : 
+- username: "JohnDoe"
+- password: "john123"
+  
 
 **Homepage**:
 
