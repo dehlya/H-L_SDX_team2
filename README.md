@@ -11,7 +11,7 @@ This is an app built on Nuxt.js, allowing companies to encourage their employees
 
 During the hackathon, unforeseen circumstances led to a shift in responsibilities, compelling our developer to take on both frontend and backend development using Nuxt.js. 
 
-Despite the challenges posed by my limited familiarity with Nuxt.js, our three-person team, consisting of a project manager, a UI/UX designer, and a developer, successfully delivered a functional web application suitable for demonstration purposes, incorporating hardcoded data to showcase its potential. 
+Despite the challenges posed by her limited familiarity with Nuxt.js, our three-person team, consisting of a project manager, a UI/UX designer, and a developer, successfully delivered a functional web application suitable for demonstration purposes, incorporating hardcoded data to showcase its potential. 
 
 However, recognizing the need for a **more suitable** framework and technologies, the project is slated for **comprehensive refactoring** to better align with its requirements and enhance its overall robustness and maintainability.
 
